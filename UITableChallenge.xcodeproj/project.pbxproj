@@ -83,9 +83,9 @@
 			children = (
 				BB480B9F19E29F0A004574D0 /* AppDelegate.h */,
 				BB480BA019E29F0A004574D0 /* AppDelegate.m */,
+				BB480BA519E29F0A004574D0 /* Main.storyboard */,
 				BB480BA219E29F0A004574D0 /* ViewController.h */,
 				BB480BA319E29F0A004574D0 /* ViewController.m */,
-				BB480BA519E29F0A004574D0 /* Main.storyboard */,
 				BB480BA819E29F0A004574D0 /* Images.xcassets */,
 				BB480BAA19E29F0A004574D0 /* LaunchScreen.xib */,
 				BB480B9B19E29F0A004574D0 /* Supporting Files */,
